@@ -29,5 +29,5 @@ def find_valid_calls(planeteer_calls)
  else
    index =+1
  end
-
+puts call
 end
